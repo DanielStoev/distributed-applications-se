@@ -1,0 +1,15 @@
+com\distributedApplications\Musify\service\ArtistService.class
+com\distributedApplications\Musify\controller\AlbumController.class
+com\distributedApplications\Musify\controller\ArtistController.class
+com\distributedApplications\Musify\controller\CorsConfig.class
+com\distributedApplications\Musify\repository\ArtistRepository.class
+com\distributedApplications\Musify\service\AlbumService.class
+com\distributedApplications\Musify\service\SongService.class
+com\distributedApplications\Musify\repository\SongRepository.class
+com\distributedApplications\Musify\controller\CorsConfig$1.class
+com\distributedApplications\Musify\entity\Artist.class
+com\distributedApplications\Musify\MusifyApplication.class
+com\distributedApplications\Musify\entity\Song.class
+com\distributedApplications\Musify\entity\Album.class
+com\distributedApplications\Musify\controller\SongController.class
+com\distributedApplications\Musify\repository\AlbumRepository.class
